@@ -1,4 +1,4 @@
-package pl.dominisz.java8desktop;
+package pl.dominisz;
 
 public class PasswordGeneratorParameters {
     int passwordLength;
